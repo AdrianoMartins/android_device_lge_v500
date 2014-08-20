@@ -19,8 +19,6 @@ PRODUCT_AAPT_PREF_CONFIG := xhdpi
 
 PRODUCT_CHARACTERISTICS := tablet
 
-DEVICE_PACKAGE_OVERLAYS := $(LOCAL_PATH)/overlay
-
 PRODUCT_PACKAGES += \
     charger_res_images \
     charger
